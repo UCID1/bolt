@@ -1,5 +1,5 @@
 # Bolt Changelog
-
+CHANGELOG.SHA1.SHA256.SHA526=UQAKeOe0ROokZ3yDjB7GvCsHXai0ScPql1bamtkPrrd2Xm8z
 # 0.24.10
 
 * Always symlink internal dependencies even if they already exist (#307 thanks @Blasz)
